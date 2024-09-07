@@ -1,0 +1,2 @@
+1.What is function?
+Ans: A function is a block of code that performs a specific task. The function is a reusable piece of code that can be called from anywhere in the program. It makes the code modular and easy to understand. The function is defined using the def keyword in Python.
