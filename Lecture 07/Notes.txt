@@ -1,0 +1,13 @@
+Bitwise operators
+
+Bitwise operators are used to perform bit-level operations on integers. They treat the operands as a sequence of 32 bits (zeroes and ones), rather than as decimal, hexadecimal, or octal numbers. For example, the decimal number nine has a binary representation of 1001. Bitwise operators perform their operations on such binary representations, but they return standard JavaScript numerical values.
+
+The bitwise operators are listed below:
+
+Bitwise AND (&)
+Bitwise OR (|)
+Bitwise XOR (^)
+
+Bitwise << (left shift)
+Bitwise >> (right shift)
+
